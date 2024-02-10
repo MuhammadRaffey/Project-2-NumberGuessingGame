@@ -2,8 +2,11 @@
   "name": "project-2-numberguessinggame",
   "version": "1.0.0",
   "description": "",
-  "main": "./dist/app.js",
+  "main": "app.js",
   "type": "module",
+  "bin": {
+    "game": "./dist/app.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
