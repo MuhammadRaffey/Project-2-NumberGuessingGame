@@ -20,10 +20,6 @@ npx raffeys-number-game
 
 Follow the prompts to guess the randomly generated number. Enter a number between 1 and 100 to make your guess. Type `exit` at any time to quit the game.
 
-## Screenshots
-
-![Game Screenshot](./screenshots/game.png)
-
 ## Features
 
 - Guess a number between 1 and 100
