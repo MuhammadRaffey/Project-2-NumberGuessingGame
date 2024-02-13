@@ -15,7 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.14",
-    "node-banner": "^1.4.0"
+    "node-banner": "^1.4.0",
+    "raffeys-number-game": "^1.0.1"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
